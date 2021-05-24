@@ -1,0 +1,129 @@
+.header{
+    font-size: 48px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.info{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.btn-start{
+    
+    transition-duration: 0.4s;
+    }
+      
+      .btn-start:hover {
+        background-color: #4CAF50; /* Green */
+        color: white;
+    }
+
+    .btn-start {
+        text-align: center;
+        font-size: 30px;
+        font-weight: bolder;    
+    }
+    
+    .btn-start{
+        position: absolute;
+        top: 50%;
+    }
+
+.header-info{
+    color: cornflowerblue;
+    font-size: 24px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}    
+
+.instructions{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 30px;
+    color: lawngreen;
+}
+
+.instructions2{
+    font-size: 28px;
+    color: lawngreen;
+}
+
+.instructions3{
+    font-size: 26px;
+    color: lawngreen;
+}
+
+.instructions4{
+    font-size: 24px;
+    color: lawngreen;
+}
+
+.instructions5{
+    font-size: 24px;
+    color: lawngreen;
+}
+
+.instructions6{
+    font-size: 24px;
+    color: lawngreen;
+}
+
+.instructions7{
+    font-size: 24px;
+    color: lawngreen;
+}
+
+.instructions8{
+    font-size: 24px;
+    color: lawngreen;
+}
+
+.instructions9{
+    font-size: 24px;
+    color: lawngreen;
+}
+
+.instructions10{
+    font-size: 24px;
+    color: lawngreen;
+}
+
+.instructions11{
+    font-size: 24px;
+    color: lawngreen;
+}
+
+.chart{
+    text-align: center;
+}
+
+.btn-send{
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    background-color: dodgerblue;
+    font-size: 20px;
+    font: small-caps;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.result{
+    font-size: 30px;
+    color: firebrick;
+}
+
+body{
+    background-image: url(gradient.gif);
+}
+
+h1,h3{
+    color: lawngreen;
+}
+
+.theirAnswer{
+    font-size: 20px;
+    font-family: monospace;
+}
+
